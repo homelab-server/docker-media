@@ -9,4 +9,4 @@ docker compose stacks for all your movie and tv gathering needs
 - [qBittorrent](https://www.qbittorrent.org): [wiki](https://github.com/qbittorrent/qBittorrent/wiki), [linuxserver/qbittorrent](https://docs.linuxserver.io/images/docker-qbittorrent)
 
 
-<em>inspired by [linuxserver.io](https://linuxserver.io)</em>
+<em>inspired by [linuxserver.io](https://linuxserver.io): [fleet](https://fleet.linuxserver.io)</em>
